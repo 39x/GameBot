@@ -2429,7 +2429,7 @@ async def tiny_url(url):
     return tinyurl
 async def start_loading(msg):
     await msg.add_reaction(loading)
-client.dev_mode = 1
+client.dev_mode = 0
 @client.event
 async def on_message(message):
     if str(message.content).startswith("<@!717416553099952219>"):
