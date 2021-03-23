@@ -289,7 +289,7 @@ a_headers = {
         "Cache-Control": "no-cache",
         "Connection": "Upgrade",
         "Host": "krunker_social.krunker.io",
-        "Origin": "https://internal.krunker.io",
+        "Origin": "https://krunker.io",
         "Pragma": "no-cache",
         "Upgrade": "websocket",
         "User-Agent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36",
