@@ -5,5 +5,11 @@ asyncio==3.4.3
 websockets==8.1
 msgpack==1.0.0
 requests
-Levenshtein
-js2py
+Levenshtein==0.12.0
+js2py==0.70
+aiofiles==0.6.0
+matplotlib==3.3.4
+ago==0.0.93
+iteration_utilities==0.11.0
+resize-image==0.4.0
+selenium
